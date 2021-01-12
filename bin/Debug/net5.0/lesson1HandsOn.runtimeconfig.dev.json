@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/talincrow/.dotnet/store/|arch|/|tfm|",
+      "/Users/talincrow/.nuget/packages"
+    ]
+  }
+}
